@@ -1,3 +1,8 @@
+![Windows](https://img.shields.io/badge/OS-Windows-blue)
+![AnyDesk](https://img.shields.io/badge/Tool-AnyDesk-red)
+![IT Support](https://img.shields.io/badge/Role-IT%20Support-green)
+![Help Desk](https://img.shields.io/badge/Focus-Help%20Desk-orange)
+
 # Remote IT Support Lab Uing AnyDesk
 
 This project demonstrates hands-on remote help desk support using AnyDesk. The goal of this lab was to simulate real-world IT support scenarios and strengthen practical troubleshooting skills commonly used in entry-level Help Desk and IT Support roles.
