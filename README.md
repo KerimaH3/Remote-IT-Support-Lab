@@ -5,7 +5,7 @@
 
 # Remote IT Support Lab Using AnyDesk
 ## Lab Setup
-<img src="screenshots/lab-setup.jpg" width="600">
+<img src="screenshots/lab-setup.jpg" width="850">
 
 
 This project demonstrates hands-on remote help desk support using AnyDesk. The goal of this lab was to simulate real-world IT support scenarios and strengthen practical troubleshooting skills commonly used in entry-level Help Desk and IT Support roles.
