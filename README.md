@@ -30,6 +30,7 @@ The project focused on remote desktop support tasks such as establishing remote 
 ## Skills Demonstrated
 - Remote desktop support
 - Remote connection setup and management
+- Remote permission and access
 - Software installation and removal
 - File transfer between systems
 - Windows troubleshooting
@@ -63,7 +64,7 @@ This project improved my understanding of remote IT support workflows and streng
 ## Screenshots
 
 ### Remote Session 
-Established a remote desktop connection using AnyDesk to simulation s real-world IT support session and remotely assist the user with troubleshooting tasks.
+Established a remote desktop connection using AnyDesk to simulate a real-world IT support session and remotely assist the user with troubleshooting tasks.
 
 <img src="screenshots/remote-session.png" width="600">
 
