@@ -68,8 +68,8 @@ This project improved my understanding of remote IT support workflows and streng
 ### Software Installation
 <img src="screenshots/software-installation.png" width="600">
 
-### File Trasnfer
-<img src="screenshots/file-trasnfer.png" width="600">
+### File Transfer
+<img src="screenshots/file-transfer.png" width="600">
 
 ### Task Manager Troubleshooting
 <img src="screenshots/task-manager.png" width="600">
