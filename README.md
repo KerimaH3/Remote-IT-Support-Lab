@@ -4,6 +4,8 @@
 ![Help Desk](https://img.shields.io/badge/Focus-Help%20Desk-orange)
 
 # Remote IT Support Lab Using AnyDesk
+## Lab Setup
+![LAb Setup](Secreenshots/lab-setup.jpg)
 
 This project demonstrates hands-on remote help desk support using AnyDesk. The goal of this lab was to simulate real-world IT support scenarios and strengthen practical troubleshooting skills commonly used in entry-level Help Desk and IT Support roles.
 
