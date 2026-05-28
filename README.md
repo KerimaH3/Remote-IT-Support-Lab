@@ -64,18 +64,22 @@ This project improved my understanding of remote IT support workflows and streng
 
 ### Remote Session 
 Established a remote desktop connection using AnyDesk to simulation s real-world IT support session and remotely assist the user with troubleshooting tasks.
+
 <img src="screenshots/remote-session.png" width="600">
 
 ### Remote Software Installation
 Installed and tested software remotely during an active support session to simulate common help desk software deployment tasks. 
+
 <img src="screenshots/software-installation.png" width="600">
 
 ### Remote File Transfer
 Trasnfered support documentation and files securely between local and remote devices using AnyDesk File Manager. 
+
 <img src="screenshots/file-transfer.png" width="600">
 
 ### Task Manager Troubleshooting
 Used Task manager remotely to monitor running processes, review startup applications, and troubleshoot system performance issues.
+
 <img src="screenshots/task-manager.png" width="600">
 
 
